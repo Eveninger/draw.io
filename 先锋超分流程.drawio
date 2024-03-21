@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T06:29:58.898Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="B6I9G3W5feIPHN8AdZYr" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-21T06:36:01.224Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="7t4YQdeBOal32MqN9FzT" version="21.5.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2049" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -90,7 +90,7 @@
         </mxCell>
         <mxCell id="SpZ1BFwY-QqwfGFSlIeW-65" value="FSR" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SpZ1BFwY-QqwfGFSlIeW-63">
           <mxGeometry x="0.3589" y="-2" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
+            <mxPoint y="21" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SpZ1BFwY-QqwfGFSlIeW-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SpZ1BFwY-QqwfGFSlIeW-46" target="SpZ1BFwY-QqwfGFSlIeW-66">
@@ -137,7 +137,7 @@
         <mxCell id="SpZ1BFwY-QqwfGFSlIeW-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SpZ1BFwY-QqwfGFSlIeW-94" target="SpZ1BFwY-QqwfGFSlIeW-110">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SpZ1BFwY-QqwfGFSlIeW-94" value="禁用超分&lt;br&gt;分配设备&lt;br&gt;alloc_device" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="SpZ1BFwY-QqwfGFSlIeW-94" value="无超分类型&lt;br&gt;分配设备&lt;br&gt;alloc_device" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-249" y="1152" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SpZ1BFwY-QqwfGFSlIeW-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SpZ1BFwY-QqwfGFSlIeW-103" target="SpZ1BFwY-QqwfGFSlIeW-110">
@@ -147,13 +147,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SpZ1BFwY-QqwfGFSlIeW-103" value="启动FSR超分&lt;br&gt;分配设备&lt;br&gt;alloc_device" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="SpZ1BFwY-QqwfGFSlIeW-103" value="FSR超分类型&lt;br&gt;分配设备&lt;br&gt;alloc_device" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-75" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SpZ1BFwY-QqwfGFSlIeW-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SpZ1BFwY-QqwfGFSlIeW-106" target="SpZ1BFwY-QqwfGFSlIeW-110">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SpZ1BFwY-QqwfGFSlIeW-106" value="启用AI超分&lt;br&gt;分配设备&lt;br&gt;alloc_device" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="SpZ1BFwY-QqwfGFSlIeW-106" value="AI超分类型&lt;br&gt;分配设备&lt;br&gt;alloc_device" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="305" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SpZ1BFwY-QqwfGFSlIeW-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SpZ1BFwY-QqwfGFSlIeW-110" target="SpZ1BFwY-QqwfGFSlIeW-116">
