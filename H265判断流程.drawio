@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T06:16:30.693Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="586Tl2HkfMgPvyOcEoR5" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-04T07:22:51.455Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="bAxy7glF4NwLXmQXDqVs" version="24.6.4" type="github">
   <diagram name="第 1 页" id="DrkI4kzzCFAA716JqiaZ">
     <mxGraphModel dx="2069" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,20 +67,25 @@
         <mxCell id="I8awTcjQjrmb_wT57g81-25" value="设备是否支持H264硬解&lt;br&gt;h265_hard_support" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-134" y="650" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="I8awTcjQjrmb_wT57g81-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="I8awTcjQjrmb_wT57g81-38" target="I8awTcjQjrmb_wT57g81-96" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="I8awTcjQjrmb_wT57g81-103" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="I8awTcjQjrmb_wT57g81-99" vertex="1" connectable="0">
-          <mxGeometry x="-0.1973" y="-1" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="I8awTcjQjrmb_wT57g81-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="I8awTcjQjrmb_wT57g81-38" target="I8awTcjQjrmb_wT57g81-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I8awTcjQjrmb_wT57g81-102" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="I8awTcjQjrmb_wT57g81-101" vertex="1" connectable="0">
           <mxGeometry x="-0.1077" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mLrD8nH62ms3HWDR8Rag-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I8awTcjQjrmb_wT57g81-38" target="mLrD8nH62ms3HWDR8Rag-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="615" y="700" />
+              <mxPoint x="615" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mLrD8nH62ms3HWDR8Rag-23" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mLrD8nH62ms3HWDR8Rag-21">
+          <mxGeometry y="3" relative="1" as="geometry">
+            <mxPoint x="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I8awTcjQjrmb_wT57g81-38" value="设备是否支持超分" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -94,12 +99,17 @@
             <mxPoint x="-40" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I8awTcjQjrmb_wT57g81-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="I8awTcjQjrmb_wT57g81-45" target="I8awTcjQjrmb_wT57g81-92" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mLrD8nH62ms3HWDR8Rag-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I8awTcjQjrmb_wT57g81-45" target="mLrD8nH62ms3HWDR8Rag-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="700" />
+              <mxPoint x="330" y="700" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="mLrD8nH62ms3HWDR8Rag-4" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I8awTcjQjrmb_wT57g81-95">
-          <mxGeometry x="-0.1773" relative="1" as="geometry">
-            <mxPoint x="-1" y="3" as="offset" />
+        <mxCell id="mLrD8nH62ms3HWDR8Rag-18" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mLrD8nH62ms3HWDR8Rag-15">
+          <mxGeometry x="-0.0667" y="-3" relative="1" as="geometry">
+            <mxPoint x="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I8awTcjQjrmb_wT57g81-45" value="设备是否支持H265硬解&lt;br&gt;h265_hard_support" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -150,7 +160,7 @@
         <mxCell id="mLrD8nH62ms3HWDR8Rag-1" value="" style="group" vertex="1" connectable="0" parent="mLrD8nH62ms3HWDR8Rag-3">
           <mxGeometry y="25" width="342" height="217" as="geometry" />
         </mxCell>
-        <mxCell id="I8awTcjQjrmb_wT57g81-71" value="&lt;div style=&quot;text-align: left; font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;model&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;soc&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;os_version: &amp;gt;= 16&lt;br&gt;h264_hard_support: true|false&lt;br&gt;h265_hard_support: true|false&lt;br&gt;resoluton_fps_level: [1-4]&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="mLrD8nH62ms3HWDR8Rag-1" vertex="1">
+        <mxCell id="I8awTcjQjrmb_wT57g81-71" value="&lt;div style=&quot;text-align: left; font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;model&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;soc&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;os_version: &amp;gt;= 16&lt;br&gt;h264_hard_support: true|false&lt;br&gt;h265_hard_support: true|false&lt;br&gt;resolution_fps_level: [1-4]&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="mLrD8nH62ms3HWDR8Rag-1" vertex="1">
           <mxGeometry x="15" y="20" width="260" height="140" as="geometry" />
         </mxCell>
         <mxCell id="I8awTcjQjrmb_wT57g81-81" value="&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 12px;&quot;&gt;1 720p 30fps&lt;br style=&quot;&quot;&gt;2 720p 60fps&lt;br style=&quot;&quot;&gt;3 1080p 30fps&lt;br style=&quot;&quot;&gt;4 1080p 60fps&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="mLrD8nH62ms3HWDR8Rag-1" vertex="1">
@@ -177,6 +187,25 @@
         </mxCell>
         <mxCell id="mLrD8nH62ms3HWDR8Rag-5" value="&lt;font color=&quot;#ff0000&quot;&gt;是否在H265黑名单内&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="219" y="130" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mLrD8nH62ms3HWDR8Rag-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mLrD8nH62ms3HWDR8Rag-13" target="I8awTcjQjrmb_wT57g81-92">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="790" />
+              <mxPoint x="330" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mLrD8nH62ms3HWDR8Rag-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mLrD8nH62ms3HWDR8Rag-13" target="I8awTcjQjrmb_wT57g81-96">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="615" y="790" />
+              <mxPoint x="615" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mLrD8nH62ms3HWDR8Rag-13" value="设备能力档位&lt;br&gt;resolution_fps_level" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="219" y="710" width="511" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
