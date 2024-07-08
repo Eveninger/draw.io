@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T06:38:53.499Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="1aYoQzHEiNc8CGn2_Nff" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-08T06:41:06.722Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="hHEnVTq36PgNjiT5f_zs" version="24.6.4" type="github">
   <diagram name="第 1 页" id="DrkI4kzzCFAA716JqiaZ">
     <mxGraphModel dx="2069" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,8 +7,8 @@
         <mxCell id="abm1jAbDXru1J8avvq6q-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="I8awTcjQjrmb_wT57g81-1" target="mLrD8nH62ms3HWDR8Rag-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I8awTcjQjrmb_wT57g81-1" value="Decode/Resoultion/FPS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="245" y="-80" width="170" height="70" as="geometry" />
+        <mxCell id="I8awTcjQjrmb_wT57g81-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Resoultion/FPS/Decode&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="-80" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="I8awTcjQjrmb_wT57g81-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="I8awTcjQjrmb_wT57g81-25" target="I8awTcjQjrmb_wT57g81-83" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -135,7 +135,7 @@
         <mxCell id="mLrD8nH62ms3HWDR8Rag-5" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ff0000&quot;&gt;&lt;b&gt;是否在H265黑名单内&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="40" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mLrD8nH62ms3HWDR8Rag-32" value="720p/30fps" style="swimlane;whiteSpace=wrap;html=1;fillColor=#006600;startSize=23;fontSize=20;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="mLrD8nH62ms3HWDR8Rag-32" value="720p/60fps" style="swimlane;whiteSpace=wrap;html=1;fillColor=#006600;startSize=23;fontSize=20;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="390" y="1097" width="150" height="73" as="geometry" />
         </mxCell>
         <mxCell id="mLrD8nH62ms3HWDR8Rag-33" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;H265/hard&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="mLrD8nH62ms3HWDR8Rag-32" vertex="1">
@@ -163,7 +163,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="abm1jAbDXru1J8avvq6q-3" value="设备档位高于1档" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="abm1jAbDXru1J8avvq6q-3" value="设备档位高于2档" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="708" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="abm1jAbDXru1J8avvq6q-36" value="" style="group" parent="1" vertex="1" connectable="0">
