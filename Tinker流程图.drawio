@@ -7,7 +7,7 @@
         <mxCell id="WnZRo6pyd_BZn87CbMSf-15" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="50" y="60" width="180" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="WnZRo6pyd_BZn87CbMSf-8" value="生成补丁" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WnZRo6pyd_BZn87CbMSf-15">
+        <mxCell id="WnZRo6pyd_BZn87CbMSf-8" value="&lt;font color=&quot;#4fadea&quot;&gt;生成补丁&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WnZRo6pyd_BZn87CbMSf-15">
           <mxGeometry width="180" height="450" as="geometry" />
         </mxCell>
         <mxCell id="WnZRo6pyd_BZn87CbMSf-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WnZRo6pyd_BZn87CbMSf-15" source="WnZRo6pyd_BZn87CbMSf-1" target="WnZRo6pyd_BZn87CbMSf-2">
@@ -46,7 +46,7 @@
         <mxCell id="WnZRo6pyd_BZn87CbMSf-16" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="290" width="190" height="610" as="geometry" />
         </mxCell>
-        <mxCell id="WnZRo6pyd_BZn87CbMSf-17" value="应用补丁" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WnZRo6pyd_BZn87CbMSf-16">
+        <mxCell id="WnZRo6pyd_BZn87CbMSf-17" value="&lt;font color=&quot;#4fadea&quot;&gt;应用补丁&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WnZRo6pyd_BZn87CbMSf-16">
           <mxGeometry width="180" height="580" as="geometry" />
         </mxCell>
         <mxCell id="WnZRo6pyd_BZn87CbMSf-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WnZRo6pyd_BZn87CbMSf-17" source="WnZRo6pyd_BZn87CbMSf-29" target="WnZRo6pyd_BZn87CbMSf-30">
@@ -102,6 +102,9 @@
         </mxCell>
         <mxCell id="WnZRo6pyd_BZn87CbMSf-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="WnZRo6pyd_BZn87CbMSf-8" target="WnZRo6pyd_BZn87CbMSf-17">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WnZRo6pyd_BZn87CbMSf-37" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font color=&quot;#4fadea&quot;&gt;Tinker热更新流程&lt;/font&gt;&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-60" width="510" height="660" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
