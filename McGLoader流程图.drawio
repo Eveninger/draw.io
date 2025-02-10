@@ -53,7 +53,7 @@
           <mxGeometry x="210" y="270" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ntoe-yldmmv3wdoFCn8Z-35" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;color: rgb(79, 173, 234);&quot;&gt;McGLoader加载游戏流程&lt;/font&gt;&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="130" y="60" width="280" height="580" as="geometry" />
+          <mxGeometry x="160" y="60" width="220" height="570" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
