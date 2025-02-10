@@ -104,7 +104,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WnZRo6pyd_BZn87CbMSf-37" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font color=&quot;#4fadea&quot;&gt;Tinker热更新流程&lt;/font&gt;&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="-60" width="510" height="660" as="geometry" />
+          <mxGeometry x="40" y="-60" width="440" height="650" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
