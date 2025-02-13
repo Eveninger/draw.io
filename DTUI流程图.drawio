@@ -1,9 +1,124 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="第 1 页" id="Wm1BlINnqt_x8WUW0ELH">
-    <mxGraphModel>
+    <mxGraphModel dx="1242" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9drQ6tvDtbhhTQREF3fm-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9drQ6tvDtbhhTQREF3fm-1" target="9drQ6tvDtbhhTQREF3fm-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9drQ6tvDtbhhTQREF3fm-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="208" y="100" as="sourcePoint" />
+            <mxPoint x="231" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="231" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9drQ6tvDtbhhTQREF3fm-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="70" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9drQ6tvDtbhhTQREF3fm-2" value="王者荣耀" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="121" y="70" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9drQ6tvDtbhhTQREF3fm-3" value="DTUI Lib" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="108.5" y="105" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9drQ6tvDtbhhTQREF3fm-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9drQ6tvDtbhhTQREF3fm-4" target="9drQ6tvDtbhhTQREF3fm-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="240" />
+              <mxPoint x="80" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9drQ6tvDtbhhTQREF3fm-4" value="SurfaceFlinger" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="170" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9drQ6tvDtbhhTQREF3fm-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9drQ6tvDtbhhTQREF3fm-5" target="9drQ6tvDtbhhTQREF3fm-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="233" y="240" />
+              <mxPoint x="233" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9drQ6tvDtbhhTQREF3fm-5" value="Binder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="183" y="170" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9drQ6tvDtbhhTQREF3fm-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="269" width="250" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="9drQ6tvDtbhhTQREF3fm-13" value="游&lt;div&gt;戏&lt;/div&gt;&lt;div&gt;内&lt;/div&gt;&lt;div&gt;容&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="79" y="199" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9drQ6tvDtbhhTQREF3fm-14" value="DTUI&lt;br&gt;指&lt;div&gt;令&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225" y="205" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9drQ6tvDtbhhTQREF3fm-15" value="云端容器" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="30" width="290" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="9drQ6tvDtbhhTQREF3fm-19" value="Data Channel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9drQ6tvDtbhhTQREF3fm-15">
+          <mxGeometry x="155" y="269" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9drQ6tvDtbhhTQREF3fm-16" value="RTC Process" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="269" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9drQ6tvDtbhhTQREF3fm-18" value="Media Stream" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="299" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9drQ6tvDtbhhTQREF3fm-20" value="Android SDK" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="400" width="290" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="9drQ6tvDtbhhTQREF3fm-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9drQ6tvDtbhhTQREF3fm-20">
+          <mxGeometry x="15" y="29.5" width="245" height="190.5" as="geometry" />
+        </mxCell>
+        <mxCell id="9drQ6tvDtbhhTQREF3fm-26" value="RTC Process" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9drQ6tvDtbhhTQREF3fm-20">
+          <mxGeometry x="99" y="29.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9drQ6tvDtbhhTQREF3fm-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9drQ6tvDtbhhTQREF3fm-20" source="9drQ6tvDtbhhTQREF3fm-27" target="9drQ6tvDtbhhTQREF3fm-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9drQ6tvDtbhhTQREF3fm-27" value="Media Stream" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9drQ6tvDtbhhTQREF3fm-20">
+          <mxGeometry x="20" y="59.5" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9drQ6tvDtbhhTQREF3fm-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="9drQ6tvDtbhhTQREF3fm-20" source="9drQ6tvDtbhhTQREF3fm-29" target="9drQ6tvDtbhhTQREF3fm-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9drQ6tvDtbhhTQREF3fm-42" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;合成&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9drQ6tvDtbhhTQREF3fm-36">
+          <mxGeometry x="0.7035" y="2" relative="1" as="geometry">
+            <mxPoint x="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9drQ6tvDtbhhTQREF3fm-29" value="Data Channel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9drQ6tvDtbhhTQREF3fm-20">
+          <mxGeometry x="155" y="59.5" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9drQ6tvDtbhhTQREF3fm-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9drQ6tvDtbhhTQREF3fm-20">
+          <mxGeometry x="78.5" y="152" width="121.5" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="9drQ6tvDtbhhTQREF3fm-37" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;游戏画面&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9drQ6tvDtbhhTQREF3fm-20">
+          <mxGeometry x="65" y="86" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9drQ6tvDtbhhTQREF3fm-38" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;DTUI指令&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9drQ6tvDtbhhTQREF3fm-20">
+          <mxGeometry x="145" y="86" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9drQ6tvDtbhhTQREF3fm-40" value="Egl Render" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9drQ6tvDtbhhTQREF3fm-20">
+          <mxGeometry x="97.5" y="152" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9drQ6tvDtbhhTQREF3fm-41" value="DTUI Lib" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9drQ6tvDtbhhTQREF3fm-20">
+          <mxGeometry x="91" y="183" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9drQ6tvDtbhhTQREF3fm-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="9drQ6tvDtbhhTQREF3fm-18" target="9drQ6tvDtbhhTQREF3fm-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9drQ6tvDtbhhTQREF3fm-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="9drQ6tvDtbhhTQREF3fm-19" target="9drQ6tvDtbhhTQREF3fm-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
